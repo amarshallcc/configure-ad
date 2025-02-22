@@ -46,6 +46,8 @@ Restart Client-1 and Verify Connection to DC-1 – Ensures the setup is working 
 
 <p>
 
+---
+
 <strong>2. Remote Desktop into the client</strong>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -62,6 +64,9 @@ Allow “Domain Users” Access to Remote Desktop – Ensures that non-admin use
 Test Remote Access by Logging in as a Normal User – Verifies that the setup is working correctly.
 
 </p>
+
+---
+
 <strong>3. Active Directory Domain Services (ADDS)</strong>
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -84,6 +89,7 @@ Join Client-1 to the Domain (mydomain.com) – Connects the client machine to th
 Verify Client-1 in Active Directory – Confirms that the computer has successfully joined the domain.
 Move Client-1 to the “_CLIENTS” OU – Keeps things organized.
 
+---
 
 <strong>4. PowerShell</strong>
 </p>
@@ -103,3 +109,5 @@ Verify the New Users in Active Directory – Ensures that the script worked and 
 Attempt to Log into Client-1 with a New User Account – Confirms that the new accounts can log into the system.
 
 <p>
+
+---
