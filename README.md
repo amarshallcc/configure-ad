@@ -110,4 +110,30 @@ Attempt to Log into Client-1 with a New User Account – Confirms that the new a
 
 <p>
 
+Arrange in the correct order (clean up)
+Client1
+![image](https://github.com/user-attachments/assets/7c5b592c-ffa8-446c-82f6-4fa76962e9e9)
+![image](https://github.com/user-attachments/assets/a7e6f10f-a7c0-437c-a9ac-5b00a84d48af)
+Create Users
+![image](https://github.com/user-attachments/assets/736f60ab-6be7-4d6c-bdd6-0e00e2e6f095)
+Checking user login created in active directory
+![image](https://github.com/user-attachments/assets/6e4aaa33-5499-41dd-8d83-8fdb010eb030)
+
+Observe that the account has been locked out within Active Directory
+![image](https://github.com/user-attachments/assets/cc0a4d82-0924-4771-b185-99eb41bc6498)
+
+Unlock the account
+![image](https://github.com/user-attachments/assets/a349fceb-3829-4042-8184-b8b5df3dc379)
+
+Reset Password
+![image](https://github.com/user-attachments/assets/bf732a9f-9478-4eb0-9ca2-b3561ac675a2)
+
+
+
+
+
+
+
+
+
 ---
